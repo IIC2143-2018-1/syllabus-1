@@ -79,7 +79,21 @@ tienen como objetivo complementar la clase con aspectos prácticos de la platafo
 
 ## Evaluación
 
-Ver [programa](https://github.com/IIC2143-2018-1/syllabus-1/blob/master/programa.pdf) del curso.
+> Ver [programa](https://github.com/IIC2143-2018-1/syllabus-1/blob/master/programa.pdf) del curso para más detalles.
+
+### Interrogaciones
+
+El curso contará con 3 interrogaciones a lo largo del semestre. Su hora de inicio será las 18:30, en las siguientes fechas:
+
+Interrogación     | ¿Cuándo?
+----------------- | -----------------------
+Interrogación \#1 | viernes 6 de abril
+Interrogación \#2 | martes 8 de mayo
+Interrogación \#3 | martes 5 de junio
+
+### Examen
+
+El curso contará con un examen obligatorio el día jueves 28 de junio.
 
 ## Bibliografía
 - D. Bell, Software Engineering for Students, 4th Ed, Addison-Wesley 2005
